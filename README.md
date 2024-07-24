@@ -8,7 +8,7 @@
 
 顶流机场高速中转线路，流媒体支持Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
 
-支持ChatGpt，全球 5+ 国家/地区，SS-Obfs协议。1
+支持ChatGpt，全球 5+ 国家/地区，SS-Obfs协议。11
 
 ## 顶流机场优惠码
 11
